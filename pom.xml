@@ -48,7 +48,7 @@
         <fastjson.version>1.2.83</fastjson.version>
 
         <!-- OSS 配置 -->
-        <aws.sdk.version>2.28.22</aws.sdk.version>
+        <aws.sdk.version>2.33.3</aws.sdk.version>
 
         <!-- SMS 配置 -->
         <sms4j.version>3.3.4</sms4j.version>
